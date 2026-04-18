@@ -1,12 +1,12 @@
 {
-  "export_job_id": "410b09e6-1516-451c-a157-9e3c579fd767",
+  "export_job_id": "392026fb-2bc7-46fa-82a3-a9cd6cd2e81f",
   "id_short": 615452,
-  "published_at": "2026-04-14T07:26:44Z",
+  "published_at": "2026-04-18T19:31:42Z",
   "repo_name": "restaurant-verified-email-access-in-long-beach-california-us-sample-615452",
   "sample_asset_name": "beamstation_615452_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/615452/beamstation_615452_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 27,
-  "sample_sha256": "841c51aa555e5dd090eb263bd15394de0cb7299a3a0d0dffc6990b10983e9e7b",
-  "sample_size_bytes": 125266,
-  "total_records": 279
+  "sample_sha256": "c77715d4b6c7f4ec56a253bfd906d49df10c61ff5dd9f19d5b6b7a1e5ca04bcb",
+  "sample_size_bytes": 126843,
+  "total_records": 275
 }
