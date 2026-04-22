@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Long Beach, California, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `615452` |
 | Location | Long Beach |
 | Category | Restaurants |
-| Full dataset size | 275 records |
-| Free sample size | 27 records (9.82%) |
-| Last export | 2026-04-15T05:08:19.999232+00:00 |
+| Full dataset size | 247 records |
+| Free sample size | 24 records (9.72%) |
+| Last export | 2026-04-22T10:43:22.534124+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-long-beach-california-us-sample-615452/releases/download/sample-latest/beamstation_615452_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
